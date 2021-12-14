@@ -12,7 +12,7 @@
 
 .nav-container {
     padding-left: 10%;
-    width: 55%;
+    width: 40%;
     align-self: center;
 }
 
@@ -50,20 +50,17 @@ button.active {
     align-self: center;
    
 }
-label {
-    position: relative;
-    left: 490px;
-}
+
 #checkout-dropdown {
     position: relative;
-    left: 490px;
+    left: 380px;
     width: 40px;
     border: none;
     font-size: 20px;
 }
 .checkout-img {
     position: relative;
-    left: 510px;
+    left: 390px;
 }
 
 @media screen and (max-width: 850px) {
